@@ -7,3 +7,5 @@
 **新掌握: ** read_csv时可以直接先把时间序列解析parse_time = True
 ## 10_data_aggregation_and_group_operations
 groupby 加 apply可以自定义func
+## 14_数据分析案例
+强烈建议先看这一章，然后再返回去看前面的，这样带着问题看前面更有收获
